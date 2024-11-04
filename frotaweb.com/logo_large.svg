@@ -25,16 +25,32 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="1.0416667"
-     inkscape:cx="73.44"
+     inkscape:cx="71.519998"
      inkscape:cy="0"
      inkscape:window-width="1440"
-     inkscape:window-height="785"
+     inkscape:window-height="449"
      inkscape:window-x="0"
      inkscape:window-y="25"
-     inkscape:window-maximized="1"
+     inkscape:window-maximized="0"
      inkscape:current-layer="SVGRepo_iconCarrier" />
   <defs
      id="defs1">
+    <linearGradient
+       id="swatch6"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop7" />
+    </linearGradient>
+    <linearGradient
+       id="swatch4"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4" />
+    </linearGradient>
     <linearGradient
        id="swatch3"
        inkscape:swatch="solid">
@@ -50,6 +66,15 @@
        x1="46.786012"
        y1="24.721886"
        x2="141.76992"
+       y2="24.721886"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch3"
+       id="linearGradient7"
+       x1="46.786011"
+       y1="24.721886"
+       x2="141.76991"
        y2="24.721886"
        gradientUnits="userSpaceOnUse" />
   </defs>
@@ -84,7 +109,7 @@
            id="path2" />
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.4187px;font-family:'Bangla MN';-inkscape-font-specification:'Bangla MN, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:none"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.4187px;font-family:'Bangla MN';-inkscape-font-specification:'Bangla MN, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1"
            x="46.983051"
            y="32.745766"
            id="text4"
@@ -92,7 +117,7 @@
              id="tspan4"
              x="46.983051"
              y="32.745766"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.4187px;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:none">frotaweb</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.4187px;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1">frotaweb</tspan></text>
       </g>
     </g>
   </g>
