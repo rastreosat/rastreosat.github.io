@@ -7,8 +7,31 @@
    viewBox="0 0 63.5 16.484701"
    version="1.1"
    id="svg1"
+   sodipodi:docname="logo_large.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.0416667"
+     inkscape:cx="120"
+     inkscape:cy="30.72"
+     inkscape:window-width="1440"
+     inkscape:window-height="449"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
   <defs
      id="defs1" />
   <g
@@ -49,36 +72,16 @@
            stroke-linejoin="round"
            id="path2" />
         <text
-           x="77.442268"
-           y="22.038052"
-           font-family="Arial"
-           font-size="22.4187px"
-           fill="#000000"
-           text-anchor="start"
-           id="text2"
-           transform="scale(0.61269939,1.6321218)"
-           style="font-size:22.4187px;font-family:Arial;text-anchor:start;fill:#000000;stroke-width:4.48375"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.4187px;font-family:'Bangla MN';-inkscape-font-specification:'Bangla MN, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-             id="tspan3" /></text>
-        <text
            xml:space="preserve"
-           style="fill:#000000"
-           x="53.491524"
-           y="43.525425"
-           id="text3"><tspan
-             id="tspan2"
-             x="53.491524"
-             y="43.525425" /></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.4187px;font-family:'Bangla MN';-inkscape-font-specification:'Bangla MN, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.4187px;font-family:'Bangla MN';-inkscape-font-specification:'Bangla MN, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#f2f2f2"
            x="46.983051"
            y="32.745766"
-           id="text4"><tspan
+           id="text4"
+           inkscape:label="text4"><tspan
              id="tspan4"
              x="46.983051"
              y="32.745766"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.4187px;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Rastreosat</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.4187px;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#f2f2f2">Rastreosat</tspan></text>
       </g>
     </g>
   </g>
