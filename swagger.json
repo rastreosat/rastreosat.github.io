@@ -1,11 +1,11 @@
 {
   "openapi": "3.0.1",
   "info": {
-    "title": "API Rastreosat",
+    "title": "API frotaweb",
     "version": "6.2",
     "description": "Frotaweb GPS tracking server API documentation",
     "contact": {
-      "name": "Rastreosat support",
+      "name": "frotaweb support",
       "url": "https://frotaweb.com",
       "email": "support@frotaweb.com"
     },
