@@ -3,11 +3,11 @@
   "info": {
     "title": "API Rastreosat",
     "version": "6.2",
-    "description": "Rastreosat GPS tracking server API documentation",
+    "description": "Frotaweb GPS tracking server API documentation",
     "contact": {
       "name": "Rastreosat support",
-      "url": "https://rastreosat.com.br/",
-      "email": "support@rastreosat.com.br"
+      "url": "https://frotaweb.com",
+      "email": "support@frotaweb.com"
     },
     "license": {
       "name": "Apache 2.0",
@@ -16,7 +16,7 @@
   },
   "servers": [
     {
-      "url": "https://web.rastreosat.com.br/api",
+      "url": "https://frotaweb.com.br/api",
     }
   ],
   "security": [
