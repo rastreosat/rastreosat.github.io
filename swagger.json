@@ -16,7 +16,7 @@
   },
   "servers": [
     {
-      "url": "https://frotaweb.com.br/api",
+      "url": "https://frotaweb.com/api",
     }
   ],
   "security": [
