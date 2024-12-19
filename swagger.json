@@ -6,7 +6,7 @@
     "description": "Frotaweb GPS tracking server API documentation",
     "contact": {
       "name": "frotaweb support",
-      "url": "https://frotaweb.com",
+      "url": "https://dash.frotaweb.com",
       "email": "support@frotaweb.com"
     },
     "license": {
@@ -16,7 +16,7 @@
   },
   "servers": [
     {
-      "url": "https://frotaweb.com/api",
+      "url": "https://dash.frotaweb.com/api",
     }
   ],
   "security": [
