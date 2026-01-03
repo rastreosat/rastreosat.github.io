@@ -1567,6 +1567,66 @@
         }
       }
     },
+    "/reports/tolls": {
+      "get": {
+        "summary": "Fetch a list of tolls passed within the time period for the device",
+        "description": "_deviceId_ must be passed",
+        "tags": [
+          "Reports"
+        ],
+        "parameters": [
+          {
+            "name": "deviceId",
+            "in": "query",
+            "style": "form",
+            "required": true
+          },
+          {
+            "name": "from",
+            "in": "query",
+            "description": "in IS0 8601 format. eg. `1963-11-22T18:30:00Z`",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "date-time"
+            }
+          },
+          {
+            "name": "to",
+            "in": "query",
+            "description": "in IS0 8601 format. eg. `1963-11-22T18:30:00Z`",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "date-time"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Toll"
+                  }
+                }
+              },
+              "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Toll"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "/reports/route": {
       "get": {
         "summary": "Fetch a list of Positions within the time period for the Devices or Groups",
