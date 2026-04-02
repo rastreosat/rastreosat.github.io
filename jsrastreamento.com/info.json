@@ -1,4 +1,5 @@
 {
+    "server": "gps.jsrastreamento.com",
     "title": "JS Rastreamento",
     "description": "Soluções em Rastreamento", 
     "favicon": "https://raw.githubusercontent.com/rastreosat/rastreosat.github.io/refs/heads/main/jsrastreamento.com/favicon.png"
